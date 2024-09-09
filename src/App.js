@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Expenseltem from './components/Expenseltem';
+
 
 function App() {
   return (
     <div>
-      <h2>Hello world</h2>
+      <Expenseltem></Expenseltem>
       <p>Roope Saari / VAMK / BIT</p>
     </div>
   );
